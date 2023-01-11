@@ -1,0 +1,40 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: blue;
+    height: 600px;
+    }
+
+.item1{
+    background-color: white;
+    height: 30px;
+    width: 100px;
+}
+
+.container{
+    background-color: rgba(164, 230, 12, 0.945);
+    width: 600 px;
+    height: 500 px;
+    margin: auto;
+}
+
+.buttom{
+    background-color: black;
+    height: 6px;
+}
+.item2{
+    background-color: cadetblue;
+    height: 300px;
+}
+
+a{
+    text-align: center;
+    padding: 3px;
+    padding-top: 3px;
+    font-size: 11px;
+    }
+
+img{
+    min-height: 20px;
+    width: 12%;
+}
