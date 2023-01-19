@@ -1,40 +1,116 @@
 header{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: blue;
-    height: 600px;
+    background-color: white
+    height: 1000px;
+    width: 1350px;
     }
 
-.item1{
-    background-color: white;
+.nav{
     height: 30px;
-    width: 100px;
-}
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    padding: 10x 20px;
+    width: 1350px;
+    }
+
+
 
 .container{
-    background-color: rgba(164, 230, 12, 0.945);
-    width: 600 px;
-    height: 500 px;
-    margin: auto;
-}
+    background-color: rgba(212, 255, 18, 0.959);
+    width: 1000 px;
+    height: 900 px;
+    display: flex;
+    align-items:
+    }
 
 .buttom{
     background-color: black;
     height: 6px;
 }
-.item2{
-    background-color: cadetblue;
-    height: 300px;
-}
 
 a{
     text-align: center;
-    padding: 3px;
-    padding-top: 3px;
-    font-size: 11px;
+    padding: 1px;
+    padding-top: 8px;
+    font-size: 12px;
+    margin-left: 50px;
+    margin-right: 50px;
     }
-
+ 
 img{
     min-height: 20px;
-    width: 12%;
+    width: 40%;
+    border-radius: 360px;
+    margin: 30px;
+    box-shadow: 5px 5px 5px 5px white;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    }
+
+.presentacion{
+    margin-top: 120px;
+    margin-left: 220px;
+    margin-right: 220px;
+    text-align: left;
+    margin-bottom: 120px;
+    }
+
+h3{
+    margin-left: 170px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h2{
+    font-size: 50px;
+    font-weight: 50px;
+}
+
+.uno{
+    background-color: red;
+    display:flex;
+    height: 400px;
+    width: 1800px;
+}
+
+h1{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;   
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.uno-yo-soy{
+background-color: green;
+padding-top: 20px;
+padding-bottom: 20px;
+height: 200px;
+width: 1000px;
+
+}
+.uno-22-exp{
+background-color: blue;
+height: 200px;
+width: 400px;
+
+}
+
+.experiencia{
+background-color: blue;
+width: 25%;
+margin-left: 100px;
+}
+
+.exp{
+ text-align: center;   
 }
