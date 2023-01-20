@@ -1,7 +1,7 @@
 header{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: white
+    background-color: white;
     height: 1000px;
     width: 1350px;
     }
@@ -22,7 +22,7 @@ header{
     width: 1000 px;
     height: 900 px;
     display: flex;
-    align-items:
+    align-items: center
     }
 
 .buttom{
@@ -33,20 +33,20 @@ header{
 a{
     text-align: center;
     padding: 1px;
-    padding-top: 8px;
+    padding-top: 5px;
     font-size: 12px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
     }
  
 img{
     min-height: 20px;
-    width: 40%;
+    width: 42%;
     border-radius: 360px;
-    margin: 30px;
+    margin: 40px;
     box-shadow: 5px 5px 5px 5px white;
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 90px;
+    margin-bottom: 90px;
     }
 
 .presentacion{
